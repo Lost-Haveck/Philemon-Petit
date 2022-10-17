@@ -352,6 +352,7 @@ body {
 @media (max-width: 525px) {
 
     .home-page-box {
+        margin-top: 70px;
         color: #ffffff;
         text-align: left;
         font-family: Roboto;
@@ -373,10 +374,11 @@ body {
 @media (max-width: 450px) {
 
     .home-page-box {
+     
         color: #ffffff;
         text-align: left;
         font-family: Roboto;
-        margin-top: 150px;
+        margin-top: 70px;
         margin-left: 50px;
         display: inline-block;
     }
